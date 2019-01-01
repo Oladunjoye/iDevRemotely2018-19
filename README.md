@@ -158,5 +158,14 @@ ___
 **Favorite Superhero:** Null <br>
 **Favorite Quote:** "Think Different" <br>
 **The adjective that best describes me:** Creative <br>
+
+___
+**Name:** Shonubi Joye (@oladunjoye) <br>
+**Occupation:** Web Developer | FullStack Web Developer <br>
+**Interests:** AI| IoT | ML|  Web dev <br>
+**Role Model:** Sundar Pichai <br>
+**Favorite Superhero:** Thanos <br>
+**Favorite Quote:** "We rise by lifting others" <br>
+**The adjective that best describes me:** Eccentric <br>
 ___
 **Next profile goes above me**_  👆 (Do not delete this line)
